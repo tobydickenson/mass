@@ -3,6 +3,8 @@
 USB Mass Storage Sample Application
 ###################################
 
+Changes as described at https://devzone.nordicsemi.com/f/nordic-q-a/98797/mass-example-with-external-flash-not-working-with-config_bootloader_mcuboot-y/421677
+
 Overview
 ********
 
